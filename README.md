@@ -15,8 +15,8 @@ Ovjde tenzor nema isto značenje kao tenzor u matematici ili fizici. Značenje r
 
 ## SADRŽAJ
 ##### 1. Uvod u PyTorch (Intro_to_PyTorch.ipynb)
-###### 1.1. Definiranje tenzora
-- Zbrajanje tenzora
-- Oduzimanje tenzora
-- Multiplikacija tenzora
+##### 1.1. Definiranje tenzora
+##### 1.2. Zbrajanje tenzora
+##### 1.3. Oduzimanje tenzora
+##### 1.4. Multiplikacija tenzora
 
