@@ -7,4 +7,11 @@ PyTorch pruža dvije značajke visoke razine:
 1. Tenzorsko računalstvo (kao što je NumPy) sa snažnim ubrzanjem putem grafičkih procesorskih jedinica (GPU).
 2. Duboke neureonske mreže izgrađene na sustvau automatskog razlikovanja koji se temelji na vrpcama.
 
-PyTorch definira klasu pod nazivom Tensor ('torch.Tensor')
+PyTorch definira klasu pod nazivom Tensor (`torch.Tensor`) za pohranu i rad na homogenim vižedimenzionalnim pravokutnim nizovima brojeva. PyTorch tenzori slični su NumPy nizovima, ali se njima može upravljati i na NVIDIA GPU-u koji podržava CUDA. PyTorch također razvija podršku za druge GPU platforme, npr. AMD-ov ROCm i Appleov Metal Framework.
+
+PyTorch podržava razne podvrste tenzora.
+
+Ovjde tenzor nema isto značenje kao tenzor u matematici ili fizici. Značenje riječi u tim područjima, odnosno određene vrste objekata u linearnoj algebri, samo je tangencijalno povezano s onim u strojnom učenju.
+
+## SADRŽAJ
+
