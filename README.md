@@ -14,8 +14,8 @@ PyTorch podržava razne podvrste tenzora.
 Ovjde tenzor nema isto značenje kao tenzor u matematici ili fizici. Značenje riječi u tim područjima, odnosno određene vrste objekata u linearnoj algebri, samo je tangencijalno povezano s onim u strojnom učenju.
 
 ## SADRŽAJ
-### 1. Uvod u PyTorch (Intro_to_PyTorch.ipynb)
-- Definiranje tenzora
+##### 1. Uvod u PyTorch (Intro_to_PyTorch.ipynb)
+###### 1.1. Definiranje tenzora
 - Zbrajanje tenzora
 - Oduzimanje tenzora
 - Multiplikacija tenzora
