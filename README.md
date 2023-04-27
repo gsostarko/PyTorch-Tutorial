@@ -7,4 +7,4 @@ PyTorch pruža dvije značajke visoke razine:
 1. Tenzorsko računalstvo (kao što je NumPy) sa snažnim ubrzanjem putem grafičkih procesorskih jedinica (GPU).
 2. Duboke neureonske mreže izgrađene na sustvau automatskog razlikovanja koji se temelji na vrpcama.
 
-PyTorch definira klasu pod nazivom Tensor ('''torch.Tensor''')
+PyTorch definira klasu pod nazivom Tensor ('torch.Tensor')
